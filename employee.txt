@@ -1,2 +1,0 @@
-1, Ram , Developer
-2, John, Tester
